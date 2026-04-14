@@ -134,7 +134,7 @@
         };
 
         PlusSign {
-            bindings = <&kp PLUS>;
+            bindings = <&kp EQUAL>;
             key-positions = <2 3>;
             timeout-ms = <20>;
         };
